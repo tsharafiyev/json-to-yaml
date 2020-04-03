@@ -1,0 +1,30 @@
+- bek:
+    name: Beka Brat
+    job: DevOps
+    salary: 150000
+    skills:
+      - linux
+      - github
+      - scrum
+      - ad
+    team_member:
+       - aman:
+           name: Aman Brat
+             job: DevOps
+             salary: 150000
+             skills:
+               - linux
+               - github
+               - scrum
+               - ad
+    
+       - martin:
+           name: Martin Brat
+           job: DevOps
+           salary: 150000
+           skills:
+             - linux
+             - github
+             - scrum
+             - ad
+
